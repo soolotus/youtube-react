@@ -1,0 +1,415 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "QW10wtasU72s3q_VNKdoy39Pxes",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ZbEOqeFNUswePY3RrQ7PfjOvFck",
+      "id": "QdBZY2fkU-0",
+      "snippet": {
+        "publishedAt": "2023-12-04T23:07:10Z",
+        "channelId": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+        "title": "Grand Theft Auto VI Trailer 1",
+        "description": "Song: Love Is A Long Road\nArtist: Tom Petty\nWritten by Thomas Earl Petty and Michael W. Campbell\nPublished by Universal Music Works on behalf of Wild Gator Music (GMR) and Wixen Music Publishing, Inc. as agent for Gone Gator Music (ASCAP) and NotoriousJBPSongs (ASCAP)\nCourtesy of Universal Music Enterprises, a Division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockstar Games",
+        "tags": [
+          "Rockstar Games",
+          "Grand Theft Auto VI",
+          "GTAVI",
+          "GTA 6",
+          "GTA Six",
+          "Grand Theft Auto",
+          "GTA",
+          "Vice City",
+          "Leonida"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Grand Theft Auto VI Trailer 1",
+          "description": "Song: Love Is A Long Road\nArtist: Tom Petty\nWritten by Thomas Earl Petty and Michael W. Campbell\nPublished by Universal Music Works on behalf of Wild Gator Music (GMR) and Wixen Music Publishing, Inc. as agent for Gone Gator Music (ASCAP) and NotoriousJBPSongs (ASCAP)\nCourtesy of Universal Music Enterprises, a Division of UMG Recordings, Inc."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "86380217",
+        "likeCount": "8524602",
+        "favoriteCount": "0",
+        "commentCount": "693749"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qhDaG_b54WkmytWJYs3dAoOAY8I",
+      "id": "UsbZpD3CrBc",
+      "snippet": {
+        "publishedAt": "2023-12-05T01:42:47Z",
+        "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+        "title": "50 THINGS YOU MISSED IN THE GTA 6 TRAILER! GTA 6 Trailer Breakdown",
+        "description": "everything you missed from the grand theft auto vi trailer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TGG",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "50 THINGS YOU MISSED IN THE GTA 6 TRAILER! GTA 6 Trailer Breakdown",
+          "description": "everything you missed from the grand theft auto vi trailer"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT14M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1555449",
+        "likeCount": "74086",
+        "favoriteCount": "0",
+        "commentCount": "6981"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IHVbHDrkkW0kTtTrpjiW6OYPppE",
+      "id": "dztPfvT7F5U",
+      "snippet": {
+        "publishedAt": "2023-12-04T18:00:10Z",
+        "channelId": "UCB9_VH_CNbbH4GfKu8qh63w",
+        "title": "Goku VS Superman (Dragon Ball VS DC Comics) | DEATH BATTLE!",
+        "description": "East vs west? More like battle of the best! Who wins this legendary fight?\nThis episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"Super\" - Battle Music\nSubscribe to Brandon Yates on YT: @BrandonYates \n► Stream on Spotify: https://open.spotify.com/track/7tHjfz8B8EgMUzKgaFQLHm?si=f29020bad8c64506\n\nAdditional Character Rigging: Winterstellar Studios\n\"Winner\" art by EGAL_art | Edwin Galmon\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DEATH BATTLE!",
+        "tags": [
+          "DEATH BATTLE",
+          "Rooster Teeth",
+          "DBX",
+          "DEATH BATTLE Cast",
+          "screwattack",
+          "deathbattle",
+          "roosterteeth",
+          "death battle",
+          "rooster teeth",
+          "death battle cast",
+          "ben singer",
+          "chad james",
+          "animation",
+          "animated fight",
+          "animated battle",
+          "who would win",
+          "who wins",
+          "superman",
+          "goku",
+          "dragon ball",
+          "dragonball",
+          "dragonballz",
+          "dragon ball super",
+          "DBZ",
+          "broly",
+          "daima",
+          "gohan",
+          "vegeta",
+          "clark kent",
+          "clarkkent",
+          "krypton",
+          "james gunn",
+          "super man",
+          "crunchyroll",
+          "versus",
+          "ultra instinct",
+          "super saiyan",
+          "teamfourstar",
+          "masakox",
+          "toriyama",
+          "akira",
+          "henry cavill"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Goku VS Superman (Dragon Ball VS DC Comics) | DEATH BATTLE!",
+          "description": "East vs west? More like battle of the best! Who wins this legendary fight?\nThis episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"Super\" - Battle Music\nSubscribe to Brandon Yates on YT: @BrandonYates \n► Stream on Spotify: https://open.spotify.com/track/7tHjfz8B8EgMUzKgaFQLHm?si=f29020bad8c64506\n\nAdditional Character Rigging: Winterstellar Studios\n\"Winner\" art by EGAL_art | Edwin Galmon\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1467776",
+        "likeCount": "129513",
+        "favoriteCount": "0",
+        "commentCount": "28030"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I7ZjYduEviR5ueLXpjiAAgxs1qM",
+      "id": "NcJF-R1DGQ8",
+      "snippet": {
+        "publishedAt": "2023-12-05T02:40:15Z",
+        "channelId": "UC36MGPfPwOWafAXauiV4LdA",
+        "title": "10 Details You May Have Missed in GTA 6 Trailer 1",
+        "description": "You'd be surprised how much happened in the 90 seconds of the first GTA 6 trailer, let's break it all down in this video!\n\nVlog channel: http://www.youtube.com/c/trevandchels\nSuper Cooper channel: https://www.youtube.com/c/supercooper\nSuper Cooper shorts: https://www.youtube.com/channel/UCKMA8kHZ8bPYpnMNaUSxfEQ\nTwitter: http://www.twitter.com/tmartn\nFacebook: http://www.facebook.com/trevandchels\n\nThank you for watching!\n\n#gtavi #gta6 #trailer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NcJF-R1DGQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NcJF-R1DGQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NcJF-R1DGQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NcJF-R1DGQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NcJF-R1DGQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TmarTn2",
+        "tags": [
+          "gta 6",
+          "gta vi",
+          "trailer",
+          "trailer 1",
+          "gta 6 trailer",
+          "gta vi trailer",
+          "gameplay",
+          "game play",
+          "gta 6 trailer 1",
+          "gta vi trailer 1",
+          "official",
+          "gta 6 official",
+          "gta 6 news",
+          "vice city",
+          "gta 6 trailer coming soon",
+          "gta 6 new intel",
+          "new gta game",
+          "gta 6 trailer reveal"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "10 Details You May Have Missed in GTA 6 Trailer 1",
+          "description": "You'd be surprised how much happened in the 90 seconds of the first GTA 6 trailer, let's break it all down in this video!\n\nVlog channel: http://www.youtube.com/c/trevandchels\nSuper Cooper channel: https://www.youtube.com/c/supercooper\nSuper Cooper shorts: https://www.youtube.com/channel/UCKMA8kHZ8bPYpnMNaUSxfEQ\nTwitter: http://www.twitter.com/tmartn\nFacebook: http://www.facebook.com/trevandchels\n\nThank you for watching!\n\n#gtavi #gta6 #trailer"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "939407",
+        "likeCount": "28487",
+        "favoriteCount": "0",
+        "commentCount": "2550"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4Gweqx8ukCajXbpoNBIwXp4Wots",
+      "id": "lV1OOlGwExM",
+      "snippet": {
+        "publishedAt": "2023-12-03T20:50:56Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Godzilla x Kong : The New Empire | Official Trailer",
+        "description": "Witness the rise of a new empire. #GodzillaXKong - Only in theaters 2024\n\nThe epic battle continues!  Legendary Pictures’ cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.\n\nOnce again at the helm is director Adam Wingard.  The film stars Rebecca Hall (“Godzilla vs. Kong,” The Night House”), Brian Tyree Henry (“Godzilla vs. Kong,” “Bullet Train”), Dan Stevens (“Gaslit,” “Legion,” “Beauty and the Beast”), Kaylee Hottle (“Godzilla vs. Kong”), Alex Ferns (“The Batman,” “Wrath of Man,” “Chernobyl”) and Fala Chen (“Irma Vep,” “Shang Chi and the Legend of the Ten Rings”).\n\nThe screenplay is by Terry Rossio (“Godzilla vs. Kong” the “Pirates of the Caribbean” series) and Simon Barrett (“You’re Next”) and Jeremy Slater (“Moon Knight”), from a story by Rossio & Wingard & Barrett, based on the character “Godzilla” owned and created by TOHO Co., Ltd..  The film is produced by Mary Parent, Alex Garcia, Eric Mcleod, Thomas Tull, Jon Jashni and Brian Rogers.  The executive producers are Wingard, Jen Conroy, Jay Ashenfelter, Yoshimitsu Banno, Kenji Okuhira. \n\nOnce again, Wingard is collaborating with director of photography Ben Seresin (“Godzilla vs. Kong,” “World War Z”), production designer Tom Hammock (“Godzilla vs. Kong,” “X,” “The Guest”), editor Josh Schaeffer (“Godzilla vs. Kong,” “Molly’s Game”), costume designer Emily Seresin (“The Invisible Man,” “Top of the Lake”).  The composers are Tom Holkenborg (“Godzilla vs. Kong,” “Mad Max: Fury Road”) and Antonio Di Iorio (additional music on “Godzilla vs. Kong,” the “Sonic the Hedgehog” films).\n\nWarner Bros. Pictures and Legendary Pictures Present a Legendary Pictures Production, A Film By Adam Wingard, “Godzilla x Kong: The New Empire.”  It is slated for release nationwide only in theaters and IMAX on April 12, 2024 and beginning 10 April 2024 internationally, distributed by Warner Bros. Pictures except in Japan, where the film will be distributed by Toho Co., Ltd and in mainland China, where it will be distributed by Legendary East.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "tags": [
+          "2024",
+          "Adam Wingard",
+          "Brian Tyree Henry",
+          "Coming Soon",
+          "Dan Stevens",
+          "Godzilla",
+          "Godzilla x Kong",
+          "Godzilla x Kong: The New Empire Kong",
+          "Jeremy Slater",
+          "King Kong",
+          "Legendary",
+          "Movie",
+          "Rebecca Hall",
+          "Simon Barrett",
+          "Skar King",
+          "Terry Rossio",
+          "Trailer",
+          "WB",
+          "Warner Bros",
+          "Warner Brothers"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Godzilla x Kong : The New Empire | Official Trailer",
+          "description": "Witness the rise of a new empire. #GodzillaXKong - Only in theaters 2024\n\nThe epic battle continues!  Legendary Pictures’ cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.\n\nOnce again at the helm is director Adam Wingard.  The film stars Rebecca Hall (“Godzilla vs. Kong,” The Night House”), Brian Tyree Henry (“Godzilla vs. Kong,” “Bullet Train”), Dan Stevens (“Gaslit,” “Legion,” “Beauty and the Beast”), Kaylee Hottle (“Godzilla vs. Kong”), Alex Ferns (“The Batman,” “Wrath of Man,” “Chernobyl”) and Fala Chen (“Irma Vep,” “Shang Chi and the Legend of the Ten Rings”).\n\nThe screenplay is by Terry Rossio (“Godzilla vs. Kong” the “Pirates of the Caribbean” series) and Simon Barrett (“You’re Next”) and Jeremy Slater (“Moon Knight”), from a story by Rossio & Wingard & Barrett, based on the character “Godzilla” owned and created by TOHO Co., Ltd..  The film is produced by Mary Parent, Alex Garcia, Eric Mcleod, Thomas Tull, Jon Jashni and Brian Rogers.  The executive producers are Wingard, Jen Conroy, Jay Ashenfelter, Yoshimitsu Banno, Kenji Okuhira. \n\nOnce again, Wingard is collaborating with director of photography Ben Seresin (“Godzilla vs. Kong,” “World War Z”), production designer Tom Hammock (“Godzilla vs. Kong,” “X,” “The Guest”), editor Josh Schaeffer (“Godzilla vs. Kong,” “Molly’s Game”), costume designer Emily Seresin (“The Invisible Man,” “Top of the Lake”).  The composers are Tom Holkenborg (“Godzilla vs. Kong,” “Mad Max: Fury Road”) and Antonio Di Iorio (additional music on “Godzilla vs. Kong,” the “Sonic the Hedgehog” films).\n\nWarner Bros. Pictures and Legendary Pictures Present a Legendary Pictures Production, A Film By Adam Wingard, “Godzilla x Kong: The New Empire.”  It is slated for release nationwide only in theaters and IMAX on April 12, 2024 and beginning 10 April 2024 internationally, distributed by Warner Bros. Pictures except in Japan, where the film will be distributed by Toho Co., Ltd and in mainland China, where it will be distributed by Legendary East."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "12636177",
+        "likeCount": "492842",
+        "favoriteCount": "0",
+        "commentCount": "40991"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GHbDuPMZjHdzzFvvcr5K00m4RHM",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 5222,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C2wRW6dmpVoWH_ilyfiFq6SYaL8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dnsxoGN5gR8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T12:39:38Z",
+        "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+        "title": "LIVE: Latest News, Breaking Stories and Analysis on December 5 | CBS News",
+        "description": "Police say a house exploded in Arlington, Virginia, as they were trying to serve a search warrant for a barricaded suspect, the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dnsxoGN5gR8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dnsxoGN5gR8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dnsxoGN5gR8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBS News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T12:39:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X_PuhKPtdZ8W7f-VYqeYvtxMg90",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "chfbP8WYR0w"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-04T17:51:04Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "LIVE: NBC News NOW - Dec. 5",
+        "description": "NBC News NOW is live, reporting breaking news and developing stories in real time. We are on the scene, covering the most ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/chfbP8WYR0w/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/chfbP8WYR0w/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/chfbP8WYR0w/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-04T17:51:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w5IqcLI7TJrN7biR7gH25L0HwSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xIa6xxlN3No"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T10:15:19Z",
+        "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+        "title": "Israel-Hamas live updates: War in 60th day; IDF: &quot;We are at war with Hamas, not the people of Gaza&quot;",
+        "description": "LIVE UPDATES: Israel's war with Hamas enters its 60th day. Israeli forces are moving farther south into Gaza this morning, now ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xIa6xxlN3No/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xIa6xxlN3No/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xIa6xxlN3No/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LiveNOW from FOX",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T10:15:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mD3gfEy5o5PsrjnnfA2yLsHc94E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "33nclOoa4ls"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-03T14:28:30Z",
+        "channelId": "UCgp4A6I8LCWrhUzn-5SbKvA",
+        "title": "TVC News Nigeria LIVESTREAM",
+        "description": "breakingnews #tinubu #bolaahmedtinubu #kashimshettima #abuja #TVCNews #TVC #News #NaijaNews #NaijaGist ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/33nclOoa4ls/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/33nclOoa4ls/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/33nclOoa4ls/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TVC News Nigeria",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-03T14:28:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hsgT_HKVot8iCqy48pOUB36sYEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "abTkesv_EZA"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T07:42:15Z",
+        "channelId": "UCKVsdeoHExltrWMuK0hOWmg",
+        "title": "LIVE: KTN NEWS",
+        "description": "Welcome to the 24/7 KTN Kenya News Channel on YouTube – your trusted source for the latest news and updates in Kenya and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/abTkesv_EZA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/abTkesv_EZA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/abTkesv_EZA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KTN News Kenya",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T07:42:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PCVxBPHz6eyJTlGXClavBMPZWVI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8mcdz0mb6sQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T08:15:38Z",
+        "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+        "title": "War News LIVE: Israel Vs Hamas में अब तक क्या-क्या हुआ? | World War-3 | Latest News | Breaking",
+        "description": "War News LIVE: Israel Vs Hamas में अब तक क्या-क्या हुआ? | World War-3 | Latest News | Breaking ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8mcdz0mb6sQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8mcdz0mb6sQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8mcdz0mb6sQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV9 Bharatvarsh",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T08:15:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RLO_oKTQLUfaTV8saRzPV7Rc1tM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8VneEhXBymE"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T12:31:03Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "U.S. News Live | Senator John Kennedy Slams Biden&#39;s Judicial Nominee Live | US House Live |  N18L",
+        "description": "U.S. News Live | Senator John Kennedy Slams Lloyd Austin And Antony Blinken Live | US House | N18L Sen. John Kennedy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8VneEhXBymE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8VneEhXBymE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8VneEhXBymE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T12:31:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MZyp5_N8nliViVFUEGCGOJuqgV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jymyh-aFTck"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T07:21:49Z",
+        "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+        "title": "Watch Israel-Hamas latest: Will Israel use seawater to flood tunnels beneath Gaza?",
+        "description": "Welcome back to our live coverage of the Israel-Hamas war, as a military expert says Israel could pump thousands of gallons of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jymyh-aFTck/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jymyh-aFTck/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jymyh-aFTck/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T07:21:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5l3c-mTbViVctiShIeIxCdkPWr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UF6JYRSf7Qs"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-04T19:29:34Z",
+        "channelId": "UCoja0MNI4SIvXqJR3szbSfw",
+        "title": "AO VIVO: BM&amp;C News - 05/12/2023",
+        "description": "Assista AO VIVO ao programa BM&C News desta terça-feira, 5 de dezembro de 2023. #bmcnews #bm&c Inscreva-se no canal da ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UF6JYRSf7Qs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UF6JYRSf7Qs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UF6JYRSf7Qs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BM&C NEWS",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-04T19:29:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N9ecnwFfWelf71Ax2Gwyo8WNaX8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L0RktSIM980"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-20T18:36:26Z",
+        "channelId": "UCumtYpCY26F6Jr3satUgMvA",
+        "title": "NTV Live Telugu | Telangana CM Revanth Reddy Live Updates | Cyclone Michaung Updates | Ntv",
+        "description": "https://ntvtelugu.com/news/telangana-assembly-election-2023-live-updates-493836.html #ntvtelugu #ntvlive #ntvnews #ntv ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L0RktSIM980/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L0RktSIM980/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L0RktSIM980/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NTV Telugu",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-04-20T18:36:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nWY5mTn6n4XV3593U5BaPmFOBOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bZSLm6lukqk"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T18:20:36Z",
+        "channelId": "UCshCsg1YVKli8yBai-wa78w",
+        "title": "Israel Gaza War AND Arlington House Explosion - LIVE Breaking News Coverage",
+        "description": "Get the latest on the war in Gaza between Israel and Hamas AND the house explosion in Arlington, Virginia in our LIVE coverage.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bZSLm6lukqk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bZSLm6lukqk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZSLm6lukqk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Agenda-Free TV",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T18:20:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_UX4_SUToS9PcXud5pBqvNgiGqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mBCDJEQH_sg"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T17:16:09Z",
+        "channelId": "UCUK49UvmYWYLiB7_bZFuFZQ",
+        "title": "Cyclone Michaung News Live: ଚାଲିଛି ଲ୍ୟାଣ୍ଡଫଲ୍ | Cyclone Michaung Landfall | Cyclone | Odia News",
+        "description": "Cyclone Michaung News Live: ଚାଲିଛି ଲ୍ୟାଣ୍ଡଫଲ୍ | Cyclone Michaung Landfall | Cyclone | Odia News Cyclone ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mBCDJEQH_sg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mBCDJEQH_sg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mBCDJEQH_sg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "News18 Odia",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T17:16:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rG2kge2_0FbvxhMF4oSYIjtHFYk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uv69rd0wFz8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T04:24:13Z",
+        "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+        "title": "Russia Ukraine War Update LIVE: 14 December 2023 से World War-3! | America | NATO | Breaking",
+        "description": "Russia Ukraine War Update LIVE: 14 December 2023 से World War-3! | America | NATO | Breaking #russiaukrainewar #putin ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uv69rd0wFz8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uv69rd0wFz8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uv69rd0wFz8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV9 Bharatvarsh",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T04:24:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6cJVmzjrd7jaI1GSDQURIo0ZyF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hHlGRoHYK-8"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-03T03:27:40Z",
+        "channelId": "UCsgC5cbz3DE2Shh34gNKiog",
+        "title": "92 NEWS LIVE | Pakistan News Live - Latest Headlines &amp; Breaking News - Press Conferences &amp; Speeches",
+        "description": "92NewsHD Live, Pakistan's first HD Plus news channel brings you the crispiest live news, headlines, delineate and relevant ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hHlGRoHYK-8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hHlGRoHYK-8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hHlGRoHYK-8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "92 News HD",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-03T03:27:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "unEUnJvgNDA_C_PoLtM52fuxsaQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "59FaTpumvHg"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T11:32:01Z",
+        "channelId": "UCsNdeLwEZf86swPD3qJJ7Dw",
+        "title": "Karni Sena President Sukhdev Singh Shot Dead In Jaipur LIVE: सुखदेव सिंह का हत्यारा आया सामने!",
+        "description": "Karni Sena President Sukhdev Singh Shot Dead In Jaipur LIVE: सुखदेव सिंह का हत्यारा आया सामने!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/59FaTpumvHg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/59FaTpumvHg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/59FaTpumvHg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "News Nation",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T11:32:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jE67yiLD8CwMwno6ysM1kbBF52A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9QNMlIKZSi4"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T09:34:57Z",
+        "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+        "title": "Israel-Hamas Conflict News Live : Gaza के होंगे 3000 करोड़! | World War3 | Netanyahu | Breaking News",
+        "description": "Israel-Hamas Conflict News Live : Gaza के होंगे 3000 करोड़! | World War3 | Netanyahu | Breaking News ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9QNMlIKZSi4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9QNMlIKZSi4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9QNMlIKZSi4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TV9 Bharatvarsh",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T09:34:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5lHSi4p8wQ2KnGhQxPdUSTT6lh0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "96-aIdOKu1A"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T10:10:54Z",
+        "channelId": "UC7FlLbNo66YsCEAPuJITiNg",
+        "title": "Sukjdev Singh Gogamedi Murder । Gogamedi Murder। Sukhdev Singh Gogamedi Shot Today। Breaking News",
+        "description": "Sukjdev Singh Gogamedi Murder । Gogamedi Murder। Sukhdev Singh Gogamedi Shot Today। Breaking News ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/96-aIdOKu1A/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/96-aIdOKu1A/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/96-aIdOKu1A/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "News18 Rajasthan",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T10:10:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M853x7j6CptZ5AjWMzNSze3dDEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2lot6GFyf18"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T05:45:14Z",
+        "channelId": "UCumtYpCY26F6Jr3satUgMvA",
+        "title": "Cyclone Michaung Updates LIVE | ఏపీకి పెనుగండం LIVE | Ntv",
+        "description": "Cyclone Michaung Updates LIVE | ఏపీకి పెనుగండం LIVE | Ntv #michaungcyclone #ap #ntvtelugu For more latest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2lot6GFyf18/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2lot6GFyf18/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2lot6GFyf18/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NTV Telugu",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T05:45:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RFOitJyK-ugKcCaN_2VDkxhCLBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vPdaWJZ7wzw"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T18:04:58Z",
+        "channelId": "UC_cZYFovNQTsKw1ZLmO_AMA",
+        "title": "Sukhdev Gogamedi Murder Case: हमलावर की एक महिला रिश्तेदार गिरफ्तार",
+        "description": "FirstIndiaNews #SukhdevGogamediMurderCase #SukhdevSinghGogaMedi #Karnisena #Rajasthan About this Video: President ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vPdaWJZ7wzw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vPdaWJZ7wzw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vPdaWJZ7wzw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "First India News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T18:04:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QzU_fvz28m0Q7F8rBKxuZOp-H2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iTBx-2vLp2E"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T12:59:14Z",
+        "channelId": "UCBwc2cbPpvxNCNEI2-8YrqQ",
+        "title": "BJP Announce MP Chhattisgarh New CM Final LIVE : Renuka Singh | CM Shivraj | PM Modi | Breaking News",
+        "description": "BJP Announce MP Chhattisgarh New CM Final LIVE : Renuka Singh | CM Shivraj | PM Modi | Breaking News #madhyapradesh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iTBx-2vLp2E/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iTBx-2vLp2E/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTBx-2vLp2E/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "News18 MP Chhattisgarh",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T12:59:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PV2YX_-7oMl85SaIxZc0-B4BDVo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TPcmrPrygDc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T10:59:22Z",
+        "channelId": "UCIvaYmXn910QMdemBG3v1pQ",
+        "title": "Zee News LIVE TV: Karni Sena President Sukhdev Singh Shot Dead | Cyclone Michaung | Breaking",
+        "description": "Karni Sena President shot dead: करणी सेना के राष्ट्रीय अध्यक्ष सुखदेव सिंह ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TPcmrPrygDc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TPcmrPrygDc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TPcmrPrygDc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zee News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-05-01T10:59:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Bx6ch1V0_FfUN-owWWR2WkwY3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yblbssMvJPM"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T19:49:25Z",
+        "channelId": "UCFv48WtV-9V02keB_wC0Z2Q",
+        "title": "የመከላከያው አባል ታሪክ ሠራ!- በአዲስ አበባ የአማራ ተወላጆች...ቀጥታ !DereNews Dec 5, 2023",
+        "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCFv48WtV-9V02keB_wC0Z2Q/join ደሬ ኒውስን ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yblbssMvJPM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yblbssMvJPM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yblbssMvJPM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dere News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T19:49:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IohRhjYfyYhkXoKVrGHBdjcihA8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RQrLqUxw0U0"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-02T05:17:16Z",
+        "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+        "title": "NDTV 24x7 Live TV: Sukhdev Singh Gogamedi | Revanth Reddy | Israel-Hamas War | Dinesh Phadnis",
+        "description": "A prominent Rajput leader in Rajasthan, who also led a fringe outfit, was shot dead at his Jaipur home today. Sukhdev Singh ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RQrLqUxw0U0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RQrLqUxw0U0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RQrLqUxw0U0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NDTV",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-02T05:17:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FQpqBDIHnq5bSB8Aj0wjS-UrSrc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6i9Yonofsew"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-01T00:53:22Z",
+        "channelId": "UCt4t-jeY85JegMlZ-E5UWtA",
+        "title": "Aaj Tak LIVE TV: Rajasthan New CM | Vasundhara Raje | Baba Balaknath | Sukhdev Singh Gogamedi",
+        "description": "Rajasthan Next Chief Minister: राजस्थान से जहां सीएम पद को लेकर सस्पेंस के बीच ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6i9Yonofsew/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6i9Yonofsew/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6i9Yonofsew/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aaj Tak",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-01T00:53:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-QVGwWEnPU-u7--T13SQljDQi4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9RUp-K7o_zY"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-05T01:27:25Z",
+        "channelId": "UCsNdeLwEZf86swPD3qJJ7Dw",
+        "title": "Cyclone Michaung High Alert Live : अब मचेगी तबाही, आ गया भयंकर तूफान! | Weather Update | Storm Alert",
+        "description": "Cyclone Michaung High Alert Live : अब मचेगी तबाही, आ गया भयंकर तूफान! | Weather Update | Storm Alert ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9RUp-K7o_zY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9RUp-K7o_zY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9RUp-K7o_zY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "News Nation",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-05T01:27:25Z"
+      }
+    }
+  ]
+}
